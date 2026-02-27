@@ -9,5 +9,13 @@ class Personagem {
         this.nome = nome;
         this.#HP = HP;
         this.poderDeAtaque = poderDeAtaque;
-     }
+    }
+
+    receberDano() {
+
+    }
+
+    exibirStatus() {
+        
+    }
 }
